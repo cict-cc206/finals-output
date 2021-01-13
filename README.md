@@ -20,7 +20,7 @@ Group yourselves into three and using Flutter, create an animated login screen u
 | ------------- | ------------------------------------------------------------ | ---------- |
 | Source Code   | Source code properly deployed in GitHub. Project and code structure was properly organized with proper class or variable names along with some necessary comments if needed. | 20%        |
 | Functionality | App is working properly without bugs and gives proper responses if given with invalid data | 30%        |
-| Creativity    | Login screen elements have appropriate animations. Design or animation was creatively done. | 40%        |
+| Creativity    | Login screen elements have appropriate animations. Design or animation was creatively done. Figma project is a plus! | 40%        |
 | Documentation | The README file was properly edited with instructions on how to use. Documentation is not using a generated content from the ``flutter create`` command | 10%        |
 | **Total**     |                                                              | **100%**   |
 
