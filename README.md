@@ -5,7 +5,7 @@ Animated Flutter Login Screen
 
 Group yourselves into three and using Flutter, create an animated login screen using any method, be it GIF, animated widget, Lottie or Rive animations. You can improve your work by integrating an interactive animation that react to the application's context. An example is shown below:
 
-![https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif]()
+![Screen](https://miro.medium.com/max/418/1*Bzm19U6xixjRLi3nRNjSYQ.gif)
 
 **Login Screen Specifications:**
 
